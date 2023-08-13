@@ -6,10 +6,14 @@
   "bin": {
     "pkg-police": "bin/index.js"
   },
+  "repository": "ize-302/pkg-police",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Adavize Hassan",
+  "author": {
+    "name": "Adavize Hassan",
+    "email": "adavizeozorku@gmail.com"
+  },
   "license": "MIT",
   "dependencies": {
     "@vitalets/google-translate-api": "^7.0.0",
