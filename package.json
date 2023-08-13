@@ -1,5 +1,5 @@
 {
-  "name": "pkg-police",
+  "name": "@ize-302/pkg-police",
   "version": "0.0.1",
   "description": "pkg-police is a script that lists out packages that are being used and those that aren't. No extra configuration required. Just copy and run directly in your Javascript / TypeScript codebase",
   "main": "bin/index.js",
