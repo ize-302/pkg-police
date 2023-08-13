@@ -1,0 +1,21 @@
+{
+  "name": "pkg-police",
+  "version": "0.0.0-semantic-release",
+  "description": "pkg-police is a script that lists out packages that are being used and those that aren't. No extra configuration required. Just copy and run directly in your Javascript / TypeScript codebase",
+  "main": "bin/index.js",
+  "bin": {
+    "pkg-police": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adavize Hassan",
+  "license": "MIT",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^7.0.0",
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.1",
+    "figlet": "^1.5.2",
+    "yargs": "^16.1.1"
+  }
+}
