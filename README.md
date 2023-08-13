@@ -6,8 +6,6 @@ pkg-police is a CLI tool that lists out packages that are being used and those t
 
 Install globally `npm i @ize-302/pkg-police -g`
 
-Copy the [`pkg-police-script.js`](./pkg-police-script.js) and paste it in the root of your project.
-
 Navigate to the root of the repo you want to check and run `pkg-police` to see results
 
 #### Please note ⚠️
