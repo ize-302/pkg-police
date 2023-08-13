@@ -4,7 +4,7 @@ pkg-police is a CLI tool that lists out packages that are being used and those t
 
 #### Usage
 
-Install glbally `npm install pkg-police -g`
+Install globally `npm i @ize-302/pkg-police -g`
 
 Copy the [`pkg-police-script.js`](./pkg-police-script.js) and paste it in the root of your project.
 
